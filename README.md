@@ -23,7 +23,7 @@ This is a machine learning web app built with **Streamlit** that predicst the ri
 
 ## Demo
 
-[Live App Link](https://health-risk-predictor.streamlit.app/)
+[Live App Link](https://health-risk.streamlit.app/)
 
 ## Credits
 
