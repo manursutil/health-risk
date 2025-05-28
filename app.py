@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-st.set_page_config(page_title="Health Risk Predictor", layout="wide")
+st.set_page_config(page_title="Health Risk Predictor", layout="centered")
 
 st.title("Diabetes and Heart Disease Prediction")
 st.markdown(
